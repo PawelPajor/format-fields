@@ -1,0 +1,6 @@
+[requires]
+catch2/3.0.1
+nlohmann_json/3.10.5
+
+[generators]
+cmake
